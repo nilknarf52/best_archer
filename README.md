@@ -13,6 +13,10 @@ JAVA:
 1. [Configuração Java](https://github.com/brunobatista25/best_archer/blob/master/tests/ConfiguracaoJava/configuracao_java.md);
 2. [Java Básico](https://github.com/brunobatista25/best_archer/blob/master/tests/Java/java_basico.md);
 
+.NET
+1. [Configuração C#]
+2. [C# Básico]
+
 ANDROID:
 1. [Configuração Android](https://github.com/brunobatista25/best_archer/blob/master/tests/ConfiguracaoAndroid/configuracao_android.md);
 
@@ -29,6 +33,8 @@ AUTOMAÇÃO WEB:
 8. [Comandos SeleniumWebdriver](https://github.com/brunobatista25/best_archer/blob/master/tests/SeleniumWebdriver/comandos_webdriver.md);
 9. [Comandos Junit](https://github.com/brunobatista25/best_archer/blob/master/tests/Junit/comandos_junit.md);
 10. [Comandos TestNG](https://github.com/brunobatista25/best_archer/blob/master/tests/TestNG/comandos_testng.md);
+11. [Comandos NUnit]
+12. [Comandos Specflow]
 
 
 AUTOMAÇÃO DE API:
@@ -46,6 +52,7 @@ OUTROS:
 1. [Comandos Git](https://github.com/brunobatista25/best_archer/blob/master/tests/%20Git/comandos_git.md);
 2. [Comandos Bundler](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/01-introducao_bundler.md);
 3. [Comandos Rake](https://github.com/brunobatista25/best_archer/blob/master/tests/Rake/comandos_rake.md);
+4. [Comandos Pickles]
 
 
 CONTINUOUS INTEGRATION:
@@ -53,6 +60,7 @@ CONTINUOUS INTEGRATION:
 2. [Comandos Codeship](https://github.com/brunobatista25/best_archer/blob/master/tests/Codeship/comandos_codeship.md);
 3. [Comandos Jenkis](https://github.com/brunobatista25/best_archer/blob/master/tests/Jenkis/comandos_jenkis.md);
 4. [Comandos TravisCI](https://github.com/brunobatista25/best_archer/blob/master/tests/TravisCi/comandos_travisci.md);
+5. [Comandos CI VSTS]
 
 Quem quiser ajudar a contribuir nesse projeto será bem vindo!
 
